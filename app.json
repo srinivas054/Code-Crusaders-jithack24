@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Illegal-parked-vehicle",
+    "slug": "snack-772c7359-530d-476b-a0ec-142a0aea8f69",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.spoorthiaadi.snack772c7359530d476ba0ec142a0aea8f69"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c5ab335a-dc07-421d-9707-1146153c7d54"
+      }
+    }
+  }
+}
